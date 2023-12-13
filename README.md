@@ -5,7 +5,7 @@
 </p>
 
 <p align="left"> 
-  Graduated in Computer Science from the Federal University of Viçosa. I have an interest and work in the research field, mainly focusing on projects related to Deep Learning and Cloud Computing.
+  Graduated in Computer Science from the Universidade Federal de Viçosa. I am interested in and work in the research field, mainly focusing on projects related to Deep Learning and Cloud Computing.
 </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
