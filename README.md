@@ -1,8 +1,5 @@
 <h1 align="center">Hi , I'm Eduardo Tristão <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
-font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Scientist;Data+Scientist;Machine Learning Engineer;Always+learning+new+things"></a>
-  
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%FF00CA00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Scientist;Programmer;Data+Scientist;Researcher;Machine%20Learning%20Engineer;Always+learning+new+things"></a>
 </p>
@@ -11,6 +8,8 @@ font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&h
 <p align="left"> 
   Graduado em Ciência da Computação pela Universidade Federal de Viçosa. Tenho interesse e atuo na area de pesquisa, trabalhando principalmente em projetos de Deep Learning e Computação em Nuvem.
 </p>
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="left">
   💼 Ferramentas:
