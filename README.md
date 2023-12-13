@@ -4,7 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=%FF00CA00&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Scientist;Programmer;Data+Scientist;Researcher;Machine%20Learning%20Engineer;Always+learning+new+things"></a>
 </p>
 
-<img src="https://i.ibb.co/mXBSwYb/QIgfXwky.png" min-width="0px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Graduado em Ciência da Computação pela Universidade Federal de Viçosa. Tenho interesse e atuo na area de pesquisa, trabalhando principalmente em projetos de Deep Learning e Computação em Nuvem.
 </p>
