@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://www.vhv.rs/dpng/d/469-4696797_high-technology-icon-data-science-icon-hd-png.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
   Graduado em Ciência da Computação pela Universidade Federal de Viçosa. Tenho interesse e atuo na area de pesquisa, trabalhando principalmente em projetos de Deep Learning e Computação em Nuvem.
 </p>
