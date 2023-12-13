@@ -13,12 +13,13 @@
 <p align="left">
   💼 Ferramentas:
   
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FAFF00)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=00AFFF)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=00A5FF)
   ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=GoogleCloud)
+  ![Jupyter Lab](https://img.shields.io/badge/-Jupyter%20Lab-333333?style=flat&logo=jupyter)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 </p>
 
 <p align="left">
