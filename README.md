@@ -13,7 +13,7 @@
 <p align="left">
   💼 Ferramentas:
   
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FAFF00)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=00AFFF)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes&logoColor=00A5FF)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=GoogleCloud)
