@@ -5,6 +5,7 @@
 
 <p align="left">
   💼 Ferramentas:
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FAFF00)
@@ -15,6 +16,7 @@
 
 <p align="left">
   📚 Bibliotecas:
+  
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=FFA500)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch&logoColor=FF0000)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=AA00FF)
