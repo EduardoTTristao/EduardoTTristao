@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/vHq0dMG/QIgfXwky.png" min-width="0px" max-width="500px" width="500px" align="right">
+<img src="https://i.ibb.co/mXBSwYb/QIgfXwky.png" min-width="0px" max-width="500px" width="500px" align="right">
 <p align="left"> 
   Graduado em Ciência da Computação pela Universidade Federal de Viçosa. Tenho interesse e atuo na area de pesquisa, trabalhando principalmente em projetos de Deep Learning e Computação em Nuvem.
 </p>
